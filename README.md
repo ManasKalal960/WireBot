@@ -1,4 +1,4 @@
-# **High-Voltage Electrical Wire Inspection Robot**
+# **WireBot~High-Voltage Electrical Wire Inspection Robot**
 
 ## **Overview**
 An autonomous robot for inspecting high-voltage wires, capable of traversing junctions and obstacles. Equipped with sensors for real-time wire inspection, it reduces human effort and enhances safety.
