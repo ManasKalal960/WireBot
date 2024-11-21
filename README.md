@@ -21,4 +21,3 @@ An autonomous robot for inspecting high-voltage wires, capable of traversing jun
 3. **Month 3**: Junction-crossing mechanism and wire inspection.  
 4. **Month 4**: System optimization and documentation.
 
-## **Repository Structure**
